@@ -1,0 +1,14 @@
+D:\razdel c\Desktop\class\class.example\obj\Debug\net8.0\clas.example.GeneratedMSBuildEditorConfig.editorconfig
+D:\razdel c\Desktop\class\class.example\obj\Debug\net8.0\clas.example.AssemblyInfoInputs.cache
+D:\razdel c\Desktop\class\class.example\obj\Debug\net8.0\clas.example.AssemblyInfo.cs
+D:\razdel c\Desktop\class\class.example\obj\Debug\net8.0\clas.example.csproj.CoreCompileInputs.cache
+D:\razdel c\Desktop\class\class.example\bin\Debug\net8.0\clas.example.exe
+D:\razdel c\Desktop\class\class.example\bin\Debug\net8.0\clas.example.deps.json
+D:\razdel c\Desktop\class\class.example\bin\Debug\net8.0\clas.example.runtimeconfig.json
+D:\razdel c\Desktop\class\class.example\bin\Debug\net8.0\clas.example.dll
+D:\razdel c\Desktop\class\class.example\bin\Debug\net8.0\clas.example.pdb
+D:\razdel c\Desktop\class\class.example\obj\Debug\net8.0\clas.example.dll
+D:\razdel c\Desktop\class\class.example\obj\Debug\net8.0\refint\clas.example.dll
+D:\razdel c\Desktop\class\class.example\obj\Debug\net8.0\clas.example.pdb
+D:\razdel c\Desktop\class\class.example\obj\Debug\net8.0\clas.example.genruntimeconfig.cache
+D:\razdel c\Desktop\class\class.example\obj\Debug\net8.0\ref\clas.example.dll

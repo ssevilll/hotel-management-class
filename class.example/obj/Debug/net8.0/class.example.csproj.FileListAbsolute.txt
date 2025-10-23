@@ -1,0 +1,4 @@
+D:\razdel c\Desktop\class\class.example\obj\Debug\net8.0\class.example.GeneratedMSBuildEditorConfig.editorconfig
+D:\razdel c\Desktop\class\class.example\obj\Debug\net8.0\class.example.AssemblyInfoInputs.cache
+D:\razdel c\Desktop\class\class.example\obj\Debug\net8.0\class.example.AssemblyInfo.cs
+D:\razdel c\Desktop\class\class.example\obj\Debug\net8.0\class.example.csproj.CoreCompileInputs.cache
