@@ -16,11 +16,37 @@ internal class Program
         Console.Write("How many days would you like to stay? ");
         int days = Convert.ToInt32(Console.ReadLine());
 
-        foreach (var room in rooms)
+        Console.Write("How many people are staying? ");
+        int people = Convert.ToInt32(Console.ReadLine());
+
+
+
+        switch (people)
         {
-            Console.WriteLine(room.GetDescription());
-            Console.WriteLine($"{days} nights stay cost: {room.CalculatePrice(days)}");
-            Console.WriteLine();
+            case 1:
+                Console.WriteLine("\nYou have selected a Single Room.\n");
+                foreach (var room in rooms)
+                {
+                    if (room is not SingleRoom) continue;
+                    Console.WriteLine(room.GetDescription());
+                    Console.WriteLine($"{days} nights stay cost: {room.CalculatePrice(days)}");
+                    Console.WriteLine();
+                }
+                break;
+            case 2:
+
+                Console.WriteLine("\nYou have selected a Double Room.\n");
+                foreach (var room in rooms)
+                {
+                    if (room is not DoubleRoom) continue;
+                    Console.WriteLine(room.GetDescription());
+                    Console.WriteLine($"{days} nights stay cost: {room.CalculatePrice(days)}");
+                    Console.WriteLine();
+                }
+                break;
+            default:
+                Console.WriteLine("\nSorry, we only have Single and Double rooms available.\n");
+                return;
         }
     }
 }

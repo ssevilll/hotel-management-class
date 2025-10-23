@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\razdel c\\Desktop\\class\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8200D5D4-9F5A-475D-A48D-09C21D1F320D}|class.example\\class.example.csproj|d:\\razdel c\\desktop\\class\\class.example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8200D5D4-9F5A-475D-A48D-09C21D1F320D}|class.example\\class.example.csproj|solutionrelative:class.example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8200D5D4-9F5A-475D-A48D-09C21D1F320D}|class.example\\clas.example.csproj|d:\\razdel c\\desktop\\class\\class.example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8200D5D4-9F5A-475D-A48D-09C21D1F320D}|class.example\\clas.example.csproj|solutionrelative:class.example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8200D5D4-9F5A-475D-A48D-09C21D1F320D}|class.example\\class.example.csproj|d:\\razdel c\\desktop\\class\\class.example\\items\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8200D5D4-9F5A-475D-A48D-09C21D1F320D}|class.example\\class.example.csproj|solutionrelative:class.example\\items\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8200D5D4-9F5A-475D-A48D-09C21D1F320D}|class.example\\clas.example.csproj|d:\\razdel c\\desktop\\class\\class.example\\items\\doubleroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8200D5D4-9F5A-475D-A48D-09C21D1F320D}|class.example\\clas.example.csproj|solutionrelative:class.example\\items\\doubleroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8200D5D4-9F5A-475D-A48D-09C21D1F320D}|class.example\\class.example.csproj|d:\\razdel c\\desktop\\class\\class.example\\items\\singleroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8200D5D4-9F5A-475D-A48D-09C21D1F320D}|class.example\\class.example.csproj|solutionrelative:class.example\\items\\singleroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8200D5D4-9F5A-475D-A48D-09C21D1F320D}|class.example\\clas.example.csproj|d:\\razdel c\\desktop\\class\\class.example\\items\\singleroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8200D5D4-9F5A-475D-A48D-09C21D1F320D}|class.example\\clas.example.csproj|solutionrelative:class.example\\items\\singleroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8200D5D4-9F5A-475D-A48D-09C21D1F320D}|class.example\\class.example.csproj|d:\\razdel c\\desktop\\class\\class.example\\items\\doubleroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8200D5D4-9F5A-475D-A48D-09C21D1F320D}|class.example\\class.example.csproj|solutionrelative:class.example\\items\\doubleroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8200D5D4-9F5A-475D-A48D-09C21D1F320D}|class.example\\clas.example.csproj|d:\\razdel c\\desktop\\class\\class.example\\items\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8200D5D4-9F5A-475D-A48D-09C21D1F320D}|class.example\\clas.example.csproj|solutionrelative:class.example\\items\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "DoubleRoom.cs",
               "DocumentMoniker": "D:\\razdel c\\Desktop\\class\\class.example\\Items\\DoubleRoom.cs",
               "RelativeDocumentMoniker": "class.example\\Items\\DoubleRoom.cs",
@@ -38,8 +38,7 @@
               "RelativeToolTip": "class.example\\Items\\DoubleRoom.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T14:49:05.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-23T14:49:05.667Z"
             },
             {
               "$type": "Document",
@@ -51,21 +50,19 @@
               "RelativeToolTip": "class.example\\Items\\SingleRoom.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T14:48:20.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-23T14:48:20.501Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Room.cs",
               "DocumentMoniker": "D:\\razdel c\\Desktop\\class\\class.example\\Items\\Room.cs",
               "RelativeDocumentMoniker": "class.example\\Items\\Room.cs",
-              "ToolTip": "D:\\razdel c\\Desktop\\class\\class.example\\Items\\Room.cs*",
-              "RelativeToolTip": "class.example\\Items\\Room.cs*",
+              "ToolTip": "D:\\razdel c\\Desktop\\class\\class.example\\Items\\Room.cs",
+              "RelativeToolTip": "class.example\\Items\\Room.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T14:46:37.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-23T14:46:37.615Z"
             },
             {
               "$type": "Document",
@@ -75,7 +72,7 @@
               "RelativeDocumentMoniker": "class.example\\Program.cs",
               "ToolTip": "D:\\razdel c\\Desktop\\class\\class.example\\Program.cs*",
               "RelativeToolTip": "class.example\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA7wBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T14:35:25.392Z",
               "EditorCaption": ""

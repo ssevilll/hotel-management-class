@@ -12,3 +12,4 @@ D:\razdel c\Desktop\class\class.example\obj\Debug\net8.0\refint\clas.example.dll
 D:\razdel c\Desktop\class\class.example\obj\Debug\net8.0\clas.example.pdb
 D:\razdel c\Desktop\class\class.example\obj\Debug\net8.0\clas.example.genruntimeconfig.cache
 D:\razdel c\Desktop\class\class.example\obj\Debug\net8.0\ref\clas.example.dll
+D:\razdel c\Desktop\class\class.example\obj\Debug\net8.0\clas.example.sourcelink.json
