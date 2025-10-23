@@ -36,9 +36,10 @@
               "RelativeDocumentMoniker": "class.example\\Items\\DoubleRoom.cs",
               "ToolTip": "D:\\razdel c\\Desktop\\class\\class.example\\Items\\DoubleRoom.cs",
               "RelativeToolTip": "class.example\\Items\\DoubleRoom.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T14:49:05.667Z"
+              "WhenOpened": "2025-10-23T14:49:05.667Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -48,9 +49,10 @@
               "RelativeDocumentMoniker": "class.example\\Items\\SingleRoom.cs",
               "ToolTip": "D:\\razdel c\\Desktop\\class\\class.example\\Items\\SingleRoom.cs",
               "RelativeToolTip": "class.example\\Items\\SingleRoom.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T14:48:20.501Z"
+              "WhenOpened": "2025-10-23T14:48:20.501Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -60,9 +62,10 @@
               "RelativeDocumentMoniker": "class.example\\Items\\Room.cs",
               "ToolTip": "D:\\razdel c\\Desktop\\class\\class.example\\Items\\Room.cs",
               "RelativeToolTip": "class.example\\Items\\Room.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T14:46:37.615Z"
+              "WhenOpened": "2025-10-23T14:46:37.615Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -72,7 +75,7 @@
               "RelativeDocumentMoniker": "class.example\\Program.cs",
               "ToolTip": "D:\\razdel c\\Desktop\\class\\class.example\\Program.cs*",
               "RelativeToolTip": "class.example\\Program.cs*",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA7wBUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwCwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T14:35:25.392Z",
               "EditorCaption": ""

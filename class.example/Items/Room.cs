@@ -11,7 +11,7 @@
             BasePrice = basePrice;
         }
 
-        public abstract double CalculatePrice(int nights);
+        public abstract double CalculatePrice(int nights, bool breakfastIncluded);
 
         public virtual string GetDescription()
         {

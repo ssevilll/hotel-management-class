@@ -6,12 +6,18 @@
         public DoubleRoom(int roomNumber, double basePrice)
             : base(roomNumber, basePrice) { }
 
-        public override double CalculatePrice(int nights)
+        public override double CalculatePrice(int nights, bool breakfastIncluded)
         {
             // 10% discount for stays longer than 3 nights
             double total = BasePrice * nights;
             if (nights > 3)
                 total *= 0.9;
+            
+            if (breakfastIncluded)
+            {
+                total += 15 * nights;
+            }
+
             return total;
         }
 

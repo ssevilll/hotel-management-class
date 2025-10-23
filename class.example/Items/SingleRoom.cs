@@ -5,9 +5,13 @@
     public SingleRoom(int roomNumber, double basePrice)
         : base(roomNumber, basePrice) { }
 
-    public override double CalculatePrice(int nights)
+    public override double CalculatePrice(int nights, bool breakfastIncluded)
     {
-        return BasePrice * nights;
+        if (breakfastIncluded)
+        {
+            return (BasePrice + 15) * nights;
+        }
+            return BasePrice * nights;
     }
 
     public override string GetDescription()
